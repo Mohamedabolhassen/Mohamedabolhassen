@@ -6,27 +6,26 @@
 <!-- Moving Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+;PHP+%7C+Laravel+%7C+Symfony;API+Development+🚀;Database+Design+🗄️;Docker+Enthusiast+🐳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+💻;PHP+%7C+Laravel+%7C+Symfony;API+Development+🚀;Database+Design+🗄️;Docker+Enthusiast+🐳" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <!-- Bio Section -->
-<h3 align="left"> About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  Hello there!  Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
+  Hello there! 👋 Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
-  About Me: I'm a Backend Developer specializing in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 
+  I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
   <br><br>
   - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
-
 </p>
 
 <br>
 
 <!-- Tech Stack Badges -->
-<h3 align="left"> Tech Stack</h3>
+<h3 align="left">🛠️ Tech Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -41,7 +40,7 @@
 <br>
 
 <!-- Featured Projects Table -->
-<h3 align="left">- Featured Projects-</h3>
+<h3 align="left">📌 Featured Projects</h3>
 
 <table align="center">
   <thead align="center">
@@ -54,7 +53,7 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Project 1 -->
+    <!-- Project 1 (Change 'PROJECT-NAME-1' to your actual GitHub repository name) -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=API" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -67,7 +66,7 @@
       <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=orange" alt="PRs" /></td>
     </tr>
     
-    <!-- Project 2 -->
+    <!-- Project 2 (Change 'PROJECT-NAME-2' to your actual GitHub repository name) -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=DB" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -80,7 +79,7 @@
       <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=orange" alt="PRs" /></td>
     </tr>
 
-    <!-- Project 3 -->
+    <!-- Project 3 (Change 'PROJECT-NAME-3' to your actual GitHub repository name) -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=Docker" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -113,13 +112,37 @@
 
 <br>
 
-<!-- Footer -->
+<!-- Social Accounts Section -->
+<h3 align="left">🤝 Connect with me</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <br><br>
+  <!-- Email (Already linked to your actual email) -->
+  <a href="mailto:mohamedaboaelhassan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- LinkedIn (Replace 'YOUR_LINKEDIN_USERNAME' with your actual LinkedIn username) -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub (Already linked) -->
+  <a href="https://github.com/Mohamedabolhassen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- Twitter / X (Replace 'YOUR_TWITTER_USERNAME' with your actual handle. If you don't have one, you can delete this block) -->
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <!-- Want to add Facebook, Instagram, or Portfolio? Copy one of the blocks above and change the link and badge! -->
+</div>
+
+<br>
+
+<!-- Visitor Counter & Footer -->
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamedabolhassen&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
-  <br>
+  <br><br>
   <i>⭐️ Thanks for visiting my profile! ⭐️</i>
 </div>
