@@ -75,11 +75,25 @@
 
 <br>
 
-<!-- GitHub Stats & Moving Snake -->
+<!-- DYNAMIC GitHub Analytics -->
 <h3 align="left">📊 GitHub Analytics</h3>
+
+<!-- Stats and Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedabolhassen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedabolhassen&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedabolhassen&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedabolhassen&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" width="48%" />
+</div>
+
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedabolhassen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+</div>
+
+<!-- Dynamic Activity Graph (Updates with your commits) -->
+<div align="center">
+  <a href="https://github.com/Mohamedabolhassen">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedabolhassen&theme=react-dark&hide_border=true&area=true" alt="Mohamed's Activity Graph" width="100%" />
+  </a>
 </div>
 
 <br>
