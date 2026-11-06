@@ -89,9 +89,7 @@
   <a href="mailto:mohamedaboaelhassan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://www.linkedin.com/in/mohamed-abolhassan-back-end-developer-laravel-php/ "      alt="LinkedIn" />
-  </a>
+  
   <a href="https://github.com/Mohamedabolhassen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
