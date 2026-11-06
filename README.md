@@ -6,7 +6,7 @@
 <!-- Moving Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+💻;PHP+%7C+Laravel+%7C+Symfony;API+Development+🚀;Database+Design+🗄️;Docker+Enthusiast+🐳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+;PHP+%7C+Laravel+%7C+Symfony;API+Development+;Database+Design+;Docker+Enthusiast+" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <p align="left">
   Hello there!  Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
-  I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
+  I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 
   <br><br>
   - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
 </p>
@@ -48,7 +48,7 @@
 **Description:** A scalable REST API built with Laravel and MySQL for online stores. 
 **Tech Stack:** PHP, Laravel, MySQL.
 <br>
-[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-1) | [🌐 Live Demo](YOUR_LIVE_LINK)
+[ View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-1) | [ Live Demo](YOUR_LIVE_LINK)
 <br clear="right"/>
 
 <br>
@@ -59,7 +59,7 @@
 **Description:** A microservices architecture application built with Symfony and PostgreSQL.
 **Tech Stack:** PHP, Symfony, PostgreSQL.
 <br>
-[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-2) | [🌐 Live Demo](YOUR_LIVE_LINK)
+[ View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-2) | [ Live Demo](YOUR_LIVE_LINK)
 <br clear="right"/>
 
 <br>
@@ -70,7 +70,7 @@
 **Description:** A custom Content Management System fully containerized using Docker.
 **Tech Stack:** PHP, Docker, MySQL.
 <br>
-[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-3) | [🌐 Live Demo](YOUR_LIVE_LINK)
+[ View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-3) | [ Live Demo](YOUR_LIVE_LINK)
 <br clear="right"/>
 
 <br>
