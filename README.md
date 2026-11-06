@@ -13,7 +13,7 @@
 <br>
 
 <!-- Bio Section -->
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 <p align="left">
   Hello there! 👋 Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
@@ -25,7 +25,7 @@
 <br>
 
 <!-- Tech Stack Badges -->
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left"> Tech Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -40,7 +40,7 @@
 <br>
 
 <!-- Featured Projects (Clean Markdown Version) -->
-<h3 align="left">📌 Featured Projects</h3>
+<h3 align="left"> - Featured Projects -</h3>
 
 ### 🛒 E-Commerce API
 <img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
