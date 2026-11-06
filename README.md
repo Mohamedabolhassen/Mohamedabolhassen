@@ -15,11 +15,15 @@
 <!-- Bio Section -->
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/main/img/github-logo.png" width="150" align="right" alt="Profile Logo" />
   Hello there! 👋 Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
-  I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
+  About Me: I'm a Backend Developer specializing in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
   <br><br>
-  - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
+  - 🔭 I’m currently working on <b>RESTful APIs and Database Design</b><br>
+  - 🌱 I’m currently learning <b>Advanced System Architecture</b><br>
+  - 💬 Ask me about <b>PHP, Laravel, MySQL, PostgreSQL, Docker</b><br>
+  - 📫 How to reach me: <b>your.email@example.com</b>
 </p>
 
 <br>
@@ -53,7 +57,7 @@
     </tr>
   </thead>
   <tbody>
-    <!-- Project 1 (Change 'PROJECT-NAME-1' to your actual GitHub repository name) -->
+    <!-- Project 1 -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=API" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -66,7 +70,7 @@
       <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=orange" alt="PRs" /></td>
     </tr>
     
-    <!-- Project 2 (Change 'PROJECT-NAME-2' to your actual GitHub repository name) -->
+    <!-- Project 2 -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=DB" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -79,7 +83,7 @@
       <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=orange" alt="PRs" /></td>
     </tr>
 
-    <!-- Project 3 (Change 'PROJECT-NAME-3' to your actual GitHub repository name) -->
+    <!-- Project 3 -->
     <tr>
       <td align="left">
         <img src="https://via.placeholder.com/40?text=Docker" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
@@ -112,37 +116,13 @@
 
 <br>
 
-<!-- Social Accounts Section -->
-<h3 align="left">🤝 Connect with me</h3>
+<!-- Footer -->
 <div align="center">
-  <!-- Email (Already linked to your actual email) -->
-  <a href="mailto:mohamedaboaelhassan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <!-- LinkedIn (Replace 'YOUR_LINKEDIN_USERNAME' with your actual LinkedIn username) -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <!-- GitHub (Already linked) -->
-  <a href="https://github.com/Mohamedabolhassen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Twitter / X (Replace 'YOUR_TWITTER_USERNAME' with your actual handle. If you don't have one, you can delete this block) -->
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  
-  <!-- Want to add Facebook, Instagram, or Portfolio? Copy one of the blocks above and change the link and badge! -->
-</div>
-
-<br>
-
-<!-- Visitor Counter & Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedabolhassen&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Mohamedabolhassen&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <br>
   <i>⭐️ Thanks for visiting my profile! ⭐️</i>
 </div>
