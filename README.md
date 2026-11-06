@@ -15,15 +15,11 @@
 <!-- Bio Section -->
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/main/img/github-logo.png" width="150" align="right" alt="Profile Logo" />
   Hello there! 👋 Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
-  About Me: I'm a Backend Developer specializing in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
+  I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
   <br><br>
-  - 🔭 I’m currently working on <b>RESTful APIs and Database Design</b><br>
-  - 🌱 I’m currently learning <b>Advanced System Architecture</b><br>
-  - 💬 Ask me about <b>PHP, Laravel, MySQL, PostgreSQL, Docker</b><br>
-  - 📫 How to reach me: <b>your.email@example.com</b>
+  - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
 </p>
 
 <br>
@@ -43,60 +39,39 @@
 
 <br>
 
-<!-- Featured Projects Table -->
+<!-- Featured Projects (Clean Markdown Version) -->
 <h3 align="left">📌 Featured Projects</h3>
 
-<table align="center">
-  <thead align="center">
-    <tr>
-      <th width="40%">Project</th>
-      <th>⭐ Stars</th>
-      <th>🍴 Forks</th>
-      <th>🐛 Issues</th>
-      <th>🔀 Pull Requests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Project 1 -->
-    <tr>
-      <td align="left">
-        <img src="https://via.placeholder.com/40?text=API" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
-        <a href="https://github.com/Mohamedabolhassen/PROJECT-NAME-1" style="font-weight: bold; margin-left: 5px;">E-Commerce API</a>
-        <br><sub>Scalable REST API built with Laravel</sub>
-      </td>
-      <td align="center"><img src="https://img.shields.io/github/stars/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=blue" alt="Stars" /></td>
-      <td align="center"><img src="https://img.shields.io/github/forks/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=green" alt="Forks" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=red" alt="Issues" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-1?style=flat-square&color=orange" alt="PRs" /></td>
-    </tr>
-    
-    <!-- Project 2 -->
-    <tr>
-      <td align="left">
-        <img src="https://via.placeholder.com/40?text=DB" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
-        <a href="https://github.com/Mohamedabolhassen/PROJECT-NAME-2" style="font-weight: bold; margin-left: 5px;">Task Manager System</a>
-        <br><sub>Microservices architecture app with Symfony</sub>
-      </td>
-      <td align="center"><img src="https://img.shields.io/github/stars/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=blue" alt="Stars" /></td>
-      <td align="center"><img src="https://img.shields.io/github/forks/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=green" alt="Forks" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=red" alt="Issues" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-2?style=flat-square&color=orange" alt="PRs" /></td>
-    </tr>
+### 🛒 E-Commerce API
+<img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
-    <!-- Project 3 -->
-    <tr>
-      <td align="left">
-        <img src="https://via.placeholder.com/40?text=Docker" width="20" align="center" style="border-radius:5px; vertical-align: middle;" />
-        <a href="https://github.com/Mohamedabolhassen/PROJECT-NAME-3" style="font-weight: bold; margin-left: 5px;">Dockerized CMS</a>
-        <br><sub>Custom CMS built with Docker & PHP</sub>
-      </td>
-      <td align="center"><img src="https://img.shields.io/github/stars/Mohamedabolhassen/PROJECT-NAME-3?style=flat-square&color=blue" alt="Stars" /></td>
-      <td align="center"><img src="https://img.shields.io/github/forks/Mohamedabolhassen/PROJECT-NAME-3?style=flat-square&color=green" alt="Forks" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues/Mohamedabolhassen/PROJECT-NAME-3?style=flat-square&color=red" alt="Issues" /></td>
-      <td align="center"><img src="https://img.shields.io/github/issues-pr/Mohamedabolhassen/PROJECT-NAME-3?style=flat-square&color=orange" alt="PRs" /></td>
-    </tr>
-  </tbody>
-</table>
+**Description:** A scalable REST API built with Laravel and MySQL for online stores. 
+**Tech Stack:** PHP, Laravel, MySQL.
+<br>
+[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-1) | [🌐 Live Demo](YOUR_LIVE_LINK)
+<br clear="right"/>
+
+<br>
+
+### 📋 Task Manager System
+<img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
+
+**Description:** A microservices architecture application built with Symfony and PostgreSQL.
+**Tech Stack:** PHP, Symfony, PostgreSQL.
+<br>
+[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-2) | [🌐 Live Demo](YOUR_LIVE_LINK)
+<br clear="right"/>
+
+<br>
+
+### 🐳 Dockerized CMS
+<img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
+
+**Description:** A custom Content Management System fully containerized using Docker.
+**Tech Stack:** PHP, Docker, MySQL.
+<br>
+[🔗 View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-3) | [🌐 Live Demo](YOUR_LIVE_LINK)
+<br clear="right"/>
 
 <br>
 
@@ -116,13 +91,25 @@
 
 <br>
 
-<!-- Footer -->
+<!-- Social Accounts Section -->
+<h3 align="left">🤝 Connect with me</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <br><br>
+  <a href="mailto:mohamedaboaelhassan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Mohamedabolhassen">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<!-- Visitor Counter & Footer -->
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamedabolhassen&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
-  <br>
+  <br><br>
   <i>⭐️ Thanks for visiting my profile! ⭐️</i>
 </div>
