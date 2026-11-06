@@ -15,7 +15,7 @@
 <!-- Bio Section -->
 <h3 align="left"> About Me</h3>
 <p align="left">
-  Hello there! 👋 Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
+  Hello there!  Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
   I specialize in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 🚀
   <br><br>
@@ -42,7 +42,7 @@
 <!-- Featured Projects (Clean Markdown Version) -->
 <h3 align="left"> - Featured Projects -</h3>
 
-### 🛒 E-Commerce API
+###  E-Commerce API
 <img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
 **Description:** A scalable REST API built with Laravel and MySQL for online stores. 
@@ -53,7 +53,7 @@
 
 <br>
 
-### 📋 Task Manager System
+###  Task Manager System
 <img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
 **Description:** A microservices architecture application built with Symfony and PostgreSQL.
@@ -64,7 +64,7 @@
 
 <br>
 
-### 🐳 Dockerized CMS
+###  Dockerized CMS
 <img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
 **Description:** A custom Content Management System fully containerized using Docker.
@@ -80,13 +80,13 @@
 
 <!-- Moving Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/output/github-contribution-grid-snake.svg](https://img.icons8.com/?size=100&id=QsO1qiXCL8H2&format=png&color=000000)" alt="Snake animation" />
 </div>
 
 <br>
 
 <!-- Social Accounts Section -->
-<h3 align="left">🤝 Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 <div align="center">
   <a href="mailto:mohamedaboaelhassan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -105,5 +105,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamedabolhassen&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
   <br><br>
-  <i>⭐️ Thanks for visiting my profile! ⭐️</i>
+  <i> Thanks for visiting my profile! </i>
 </div>
