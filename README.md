@@ -15,7 +15,7 @@
 <!-- Bio Section -->
 <h3 align="left"> About Me</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/main/img/github-logo.png" width="150" align="right" alt="Profile Logo" />
+  <img  <p> Linkedin </p> src="https://raw.githubusercontent.com/Mohamedabolhassen/Mohamedabolhassen/main/img/github-logo.png" width="150" align="right" alt="Profile Logo" />
   Hello there!  Welcome to my page! I'm <b>Mohamed Abolhassen</b>, a Backend Developer from Egypt 🇪🇬. 
   <br><br>
   About Me: I'm a Backend Developer specializing in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 
