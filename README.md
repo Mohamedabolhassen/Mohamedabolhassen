@@ -21,7 +21,7 @@
   About Me: I'm a Backend Developer specializing in <b>PHP</b>, <b>Laravel</b>, and <b>Symfony</b>. I focus on building scalable APIs, optimizing databases, and writing clean, maintainable code. Passionate about backend architecture, performance tuning, and delivering reliable systems. 
   <br><br>
   - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/148e4c09-2c05-4837-9959-d07c2af7aeeb" />
+  -   <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/148e4c09-2c05-4837-9959-d07c2af7aeeb" />
 
 </p>
 
