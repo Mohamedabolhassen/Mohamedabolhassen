@@ -22,13 +22,12 @@
   <br><br>
   - 📫 How to reach me: <b>mohamedaboaelhassan@gmail.com</b>
 
-   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/148e4c09-2c05-4837-9959-d07c2af7aeeb" />
 </p>
 
 <br>
 
 <!-- Tech Stack Badges -->
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left"> Tech Stack</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -43,7 +42,7 @@
 <br>
 
 <!-- Featured Projects Table -->
-<h3 align="left">📌 Featured Projects</h3>
+<h3 align="left">- Featured Projects-</h3>
 
 <table align="center">
   <thead align="center">
