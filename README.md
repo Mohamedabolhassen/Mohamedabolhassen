@@ -42,13 +42,13 @@
 <!-- Featured Projects (Clean Markdown Version) -->
 <h3 align="left"> - Featured Projects -</h3>
 
-###  E-Commerce API
+###  full-Commerce+n8n API
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQGqoUU6R0IdqQ/feedshare-shrink_1280/B4DaGpdjJ3KEAI-/0/1793844458401?e=1795651200&v=beta&t=Z7sQ4LYPfDZZZGReRTHkrtjzBpcYEeD5AlX1YEEpv9E" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
-**Description:** A scalable REST API built with Laravel and MySQL for online stores. 
-**Tech Stack:** PHP, Laravel, MySQL.
+**Description:** A scalable Commerce built with PHP and MySQL  for online stores. 
+**Tech Stack:** PHP,MySQL,n8n
 <br>
-[ View Repository](https://github.com/Mohamedabolhassen/dron_store) | [ Live Demo](YOUR_LIVE_LINK)
+[ View Repository](https://github.com/Mohamedabolhassen/dron_store) | [ NO Live Demo](YOUR_LIVE_LINK)
 <br clear="right"/>
 
 <br>
@@ -63,23 +63,6 @@
 <br clear="right"/>
 
 <br>
-
-###  Dockerized CMS
-<img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
-
-**Description:** A custom Content Management System fully containerized using Docker.
-**Tech Stack:** PHP, Docker, MySQL.
-<br>
-[ View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-3) | [ Live Demo](YOUR_LIVE_LINK)
-<br clear="right"/>
-
-<br>
-
-<!-- DYNAMIC GitHub Analytics -->
-
-
-
-
 
 <br>
 
