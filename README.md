@@ -43,12 +43,12 @@
 <h3 align="left"> - Featured Projects -</h3>
 
 ###  E-Commerce API
-<img src="https://via.placeholder.com/150x80?text=Project+Image" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGqoUU6R0IdqQ/feedshare-shrink_1280/B4DaGpdjJ3KEAI-/0/1793844458401?e=1795651200&v=beta&t=Z7sQ4LYPfDZZZGReRTHkrtjzBpcYEeD5AlX1YEEpv9E" align="right" width="150" style="border-radius: 5px; margin-left: 10px;" />
 
 **Description:** A scalable REST API built with Laravel and MySQL for online stores. 
 **Tech Stack:** PHP, Laravel, MySQL.
 <br>
-[ View Repository](https://github.com/Mohamedabolhassen/PROJECT-NAME-1) | [ Live Demo](YOUR_LIVE_LINK)
+[ View Repository](https://github.com/Mohamedabolhassen/dron_store) | [ Live Demo](YOUR_LIVE_LINK)
 <br clear="right"/>
 
 <br>
